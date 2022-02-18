@@ -1,4 +1,4 @@
-# MyNft Mint-Transfer Nft
+# MyNFT Mint-Transfer Nft
 
 A proper full stack web3 application. 
 Proper Implementation of ERC721 and ERC165 standards for the smart contracts.
