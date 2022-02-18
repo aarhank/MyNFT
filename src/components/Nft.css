@@ -1,0 +1,24 @@
+.nftp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    background-color: #252627;
+    border-radius: 30px;
+}
+.image{
+    align-self: center;
+    border-radius: 30px;
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    object-position: bottom;
+}
+.mintbtn{
+    background: -webkit-linear-gradient(#B615DE, #D428A7) ;
+    border: none;
+    align-self: center;
+    
+  
+}
+

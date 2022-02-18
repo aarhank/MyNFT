@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #252627;
+}
+.heading-h{
+    color: #a9a9b3;
+    font-weight: bold;
+    margin: 1vw;
+    font-size: 1vw;
+   
+}
